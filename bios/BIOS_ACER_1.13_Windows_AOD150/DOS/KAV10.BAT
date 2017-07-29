@@ -1,1 +1,0 @@
-flashit kav10.fd /fe /b /dc
